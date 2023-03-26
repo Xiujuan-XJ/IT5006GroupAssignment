@@ -1,0 +1,129 @@
+,VARIABLE NAME,VALUE,LABEL
+10,ST_FIPS,58,"['Alabama' 'Alaska' 'Arizona' 'Arkansas' 'California' 'Colorado'
+ 'Connecticut' 'Delaware' 'District of Columbia' 'Florida' 'Georgia'
+ 'Hawaii' 'Idaho' 'Illinois' 'Indiana' 'Iowa' 'Kansas' 'Kentucky'
+ 'Louisiana' 'Maine' 'Maryland' 'Massachusetts' 'Michigan' 'Minnesota'
+ 'Mississippi' 'Missouri' 'Montana' 'Nebraska' 'Nevada' 'New Hampshire'
+ 'New Jersey' 'New Mexico' 'New York' 'North Carolina' 'North Dakota'
+ 'Ohio' 'Oklahoma' 'Oregon' 'Pennsylvania' 'Rhode Island' 'South Carolina'
+ 'South Dakota' 'Tennessee' 'Texas' 'Utah' 'Vermont' 'Virginia'
+ 'Washington' 'West Virginia' 'Wisconsin' 'Wyoming' 'American Samoa'
+ 'Federated States of Micronesia' 'Guam' 'Northern Mariana Islands'
+ 'Palau' 'Puerto Rico' 'Virgin Islands']"
+15,CCBASIC,35,"['Not applicable' '(Not classified)'
+ ""Associate's Colleges: High Transfer-High Traditional""
+ ""Associate's Colleges: High Transfer-Mixed Traditional/Nontraditional""
+ ""Associate's Colleges: High Transfer-High Nontraditional""
+ ""Associate's Colleges: Mixed Transfer/Career & Technical-High Traditional""
+ ""Associate's Colleges: Mixed Transfer/Career & Technical-Mixed Traditional/Nontraditional""
+ ""Associate's Colleges: Mixed Transfer/Career & Technical-High Nontraditional""
+ ""Associate's Colleges: High Career & Technical-High Traditional""
+ ""Associate's Colleges: High Career & Technical-Mixed Traditional/Nontraditional""
+ ""Associate's Colleges: High Career & Technical-High Nontraditional""
+ 'Special Focus Two-Year: Health Professions'
+ 'Special Focus Two-Year: Technical Professions'
+ 'Special Focus Two-Year: Arts & Design'
+ 'Special Focus Two-Year: Other Fields'
+ ""Baccalaureate/Associate's Colleges: Associate's Dominant""
+ 'Doctoral Universities: Very High Research Activity'
+ 'Doctoral Universities: High Research Activity'
+ 'Doctoral/Professional Universities'
+ ""Master's Colleges & Universities: Larger Programs""
+ ""Master's Colleges & Universities: Medium Programs""
+ ""Master's Colleges & Universities: Small Programs""
+ 'Baccalaureate Colleges: Arts & Sciences Focus'
+ 'Baccalaureate Colleges: Diverse Fields'
+ ""Baccalaureate/Associate's Colleges: Mixed Baccalaureate/Associate's""
+ 'Special Focus Four-Year: Faith-Related Institutions'
+ 'Special Focus Four-Year: Medical Schools & Centers'
+ 'Special Focus Four-Year: Other Health Professions Schools'
+ 'Special Focus Four-Year: Engineering Schools'
+ 'Special Focus Four-Year: Other Technology-Related Schools'
+ 'Special Focus Four-Year: Business & Management Schools'
+ 'Special Focus Four-Year: Arts, Music & Design Schools'
+ 'Special Focus Four-Year: Law Schools'
+ 'Special Focus Four-Year: Other Special Focus Institutions'
+ 'Tribal Colleges']"
+17,CCSIZSET,20,"['Not applicable' '(Not classified)' 'Two-year, very small'
+ 'Two-year, small' 'Two-year, medium' 'Two-year, large'
+ 'Two-year, very large' 'Four-year, very small, primarily nonresidential'
+ 'Four-year, very small, primarily residential'
+ 'Four-year, very small, highly residential'
+ 'Four-year, small, primarily nonresidential'
+ 'Four-year, small, primarily residential'
+ 'Four-year, small, highly residential'
+ 'Four-year, medium, primarily nonresidential'
+ 'Four-year, medium, primarily residential'
+ 'Four-year, medium, highly residential'
+ 'Four-year, large, primarily nonresidential'
+ 'Four-year, large, primarily residential'
+ 'Four-year, large, highly residential'
+ 'Exclusively graduate/professional']"
+16,CCUGPROF,17,"['Not applicable' 'Not classified (Exclusively Graduate)'
+ 'Two-year, higher part-time' 'Two-year, mixed part/full-time'
+ 'Two-year, medium full-time' 'Two-year, higher full-time'
+ 'Four-year, higher part-time'
+ 'Four-year, medium full-time, inclusive, lower transfer-in'
+ 'Four-year, medium full-time, inclusive, higher transfer-in'
+ 'Four-year, medium full-time, selective, lower transfer-in'
+ 'Four-year, medium full-time , selective, higher transfer-in'
+ 'Four-year, full-time, inclusive, lower transfer-in'
+ 'Four-year, full-time, inclusive, higher transfer-in'
+ 'Four-year, full-time, selective, lower transfer-in'
+ 'Four-year, full-time, selective, higher transfer-in'
+ 'Four-year, full-time, more selective, lower transfer-in'
+ 'Four-year, full-time, more selective, higher transfer-in']"
+12,LOCALE,12,"['City: Large (population of 250,000 or more)'
+ 'City: Midsize (population of at least 100,000 but less than 250,000)'
+ 'City: Small (population less than 100,000)'
+ 'Suburb: Large (outside principal city, in urbanized area with population of 250,000 or more)'
+ 'Suburb: Midsize (outside principal city, in urbanized area with population of at least 100,000 but less than 250,000)'
+ 'Suburb: Small (outside principal city, in urbanized area with population less than 100,000)'
+ 'Town: Fringe (in urban cluster up to 10 miles from an urbanized area)'
+ 'Town: Distant (in urban cluster more than 10 miles and up to 35 miles from an urbanized area)'
+ 'Town: Remote (in urban cluster more than 35 miles from an urbanized area)'
+ 'Rural: Fringe (rural territory up to 5 miles from an urbanized area or up to 2.5 miles from an urban cluster)'
+ 'Rural: Distant (rural territory more than 5 miles but up to 25 miles from an urbanized area or more than 2.5 and up to 10 miles from an urban cluster)'
+ 'Rural: Remote (rural territory more than 25 miles from an urbanized area and more than 10 miles from an urban cluster)']"
+11,REGION,10,"['U.S. Service Schools' 'New England (CT, ME, MA, NH, RI, VT)'
+ 'Mid East (DE, DC, MD, NJ, NY, PA)' 'Great Lakes (IL, IN, MI, OH, WI)'
+ 'Plains (IA, KS, MN, MO, NE, ND, SD)'
+ 'Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)'
+ 'Southwest (AZ, NM, OK, TX)' 'Rocky Mountains (CO, ID, MT, UT, WY)'
+ 'Far West (AK, CA, HI, NV, OR, WA)'
+ 'Outlying Areas (AS, FM, GU, MH, MP, PR, PW, VI)']"
+365,OPEFLAG,8,"['unknown' 'Participates in Title IV federal financial aid programs'
+ 'Branch campus of a main campus that participates in Title IV'
+ 'Deferment only - limited participation'
+ 'Not currently participating in Title IV, has an OPE ID number'
+ 'Not currently participating in Title IV, does not have OPE ID number'
+ 'Stopped participating during the collection year'
+ 'New participants (became eligible during the collection year)'
+ 'Not eligible' nan]"
+7,PREDDEG,5,"['Not classified' 'Predominantly certificate-degree granting'
+ ""Predominantly associate's-degree granting""
+ ""Predominantly bachelor's-degree granting""
+ 'Entirely graduate-degree granting']"
+8,HIGHDEG,5,"['Non-degree-granting' 'Certificate degree' 'Associate degree'
+ ""Bachelor's degree"" 'Graduate degree']"
+364,SCHTYPE,3,"['Public      ' 'Private, Nonprofit' 'Proprietary    ']"
+314,ICLEVEL,3,['4-year' '2-year' 'Less-than-2-year']
+9,CONTROL,3,['Public' 'Private nonprofit' 'Private for-profit']
+320,OPENADMP,3,['Yes' 'No' 'Does not enroll first-time students']
+23,HSI,2,['No' 'Yes']
+24,NANTI,2,['No' 'Yes']
+255,DISTANCEONLY,2,['Not distance-education only' 'Distance-education only']
+25,MENONLY,2,['No' 'Yes']
+21,TRIBAL,2,['No' 'Yes']
+267,CURROPER,2,"['Not currently certified as an operating institution'
+ 'Currently certified as operating']"
+405,DOLPROVIDER,2,['Not matched to the DOL list' 'Matched to the DOL list']
+22,AANAPII,2,['No' 'Yes']
+26,WOMENONLY,2,['No' 'Yes']
+20,ANNHI,2,['No' 'Yes']
+18,HBCU,2,['No' 'Yes']
+19,PBI,2,['No' 'Yes']
+5,MAIN,2,['Not main campus' 'Main campus']
+65,CIP01CERT1,1,['Program not offered']
+67,CIP01ASSOC,1,['Program offered through an exclusively distance-education program']
+66,CIP01CERT2,1,['Program offered']
